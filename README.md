@@ -1,1 +1,1 @@
-# hd-detection-cloud-deployment-heroku
+# sentiment-analysis-cloud-deployment-aws
